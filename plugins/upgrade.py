@@ -21,7 +21,7 @@ async def upgrade(bot,update):
 	Price Rs 150  🇮🇳/🌎 1.81$  per Month
 	
 	
-	Pay Using Upi I'd ```9480251952@paytm```
+	Pay Using Upi I'd ```riley.famc@idfcbank```
 	
 	After Payment Send Screenshots Of 
         Payment To Admin"""
@@ -43,7 +43,7 @@ async def upgradecm(bot,message):
 	Price Rs 55  🇮🇳/🌎 0.67$  per Month
 	
 	**VIP 2 **
-	Daily Upload limit 50GB
+	Daily Upload limit 50GB Recommended for high use 
 	Price Rs 80  🇮🇳/🌎 0.97$  per Month
 	
 	**VIP3**
@@ -51,7 +51,7 @@ async def upgradecm(bot,message):
 	Price Rs 150  🇮🇳/🌎 1.81$  per Month
 	
 	
-	Pay Using Upi I'd ```9480251952@paytm```
+	Pay Using Upi I'd ```riley.famc@idfcbank```
 	
 	After Payment Send Screenshots Of 
         Payment To Admin"""
